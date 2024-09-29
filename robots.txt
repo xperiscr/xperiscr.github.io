@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://xperiscr.github.io/sitemap.html.gz
+Sitemap: https://xperiscr.github.io/app/sitemap.html.gz
+Sitemap: https://xperiscr.github.io/assets/sitemap.html.gz
+Sitemap: https://xperiscr.github.io/css/sitemap.html.gz
+Sitemap: https://xperiscr.github.io/data/sitemap.html.gz
+Sitemap: https://xperiscr.github.io/includes/sitemap.html.gz
+Sitemap: https://xperiscr.github.io/item/sitemap.html.gz
+Sitemap: https://xperiscr.github.io/src/sitemap.html.gz
